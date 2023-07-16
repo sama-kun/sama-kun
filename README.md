@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @sama-kun
 - 👀 I’m interested in Anime and coding 
 - 🌱 I’m currently learning IITU
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me @lieproger TG
 
 <!---
 sama-kun/sama-kun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
